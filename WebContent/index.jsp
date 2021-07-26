@@ -18,10 +18,4 @@
 	<p>불필요한 내용 추가</p>
 	
 </body>
-<script>
-	var msg = "${msg}";
-	if(mst!=""){
-		alert(msg);
-	}
-</script>
 </html>
